@@ -19,7 +19,7 @@
     // Override point for customization after application launch.
     
     //你是一个坏孩子
-    
+    //我是一个坏孩子
     return YES;
     
 }
