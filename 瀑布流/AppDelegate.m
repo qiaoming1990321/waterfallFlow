@@ -1,4 +1,4 @@
-//
+//kmm//
 //  AppDelegate.m
 //  瀑布流
 //
@@ -18,16 +18,6 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-    //你是一个坏孩子
-    //我是一个坏孩子
-    
-    //11111111
-    // 英语语音和
- 
-    //333
-    //主分支修改来来来来来来
-
-    //wangmazi
     return YES;
     
 }
