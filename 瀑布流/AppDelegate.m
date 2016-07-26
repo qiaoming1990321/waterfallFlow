@@ -23,7 +23,7 @@
     //xiaoli_dev1
     //lisi_dev1
     //lisi_dev2
-    //xiaoli-dev2
+    //lisixiugai
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
