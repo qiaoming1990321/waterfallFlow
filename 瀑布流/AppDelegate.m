@@ -20,7 +20,7 @@
     
     return YES;
 
-    //
+    //哈哈的快乐
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
